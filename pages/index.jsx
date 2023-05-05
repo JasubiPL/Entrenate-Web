@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <PrincipalLayout title='Fitness App'>
+    <PrincipalLayout title='Piñeyro Fit'>
       <main className=' min-h-screen flex justify-center bg-gray-950 py-16'>
         <section className='w-full max-w-5xl flex flex-wrap gap-6 p-4 justify-center items-start lg:items-center
         lg:flex-nowrap'>
