@@ -11,9 +11,7 @@ export default function PrincipalLayout({title, children}) {
       <header>
         <Nav />
       </header>
-      <main>
-        {children}
-      </main>
+      {children}
     </>
   );
 };
