@@ -11,7 +11,7 @@ export default function GymExcercisesPage() {
           <ul className="w-full flex flex-wrap justify-evenly gap-5">
             <li>
               <Link href='/ejersicioengym/abdomen' className=" rounded-full bg-slate-900 aspect-square flex 
-              flex-col items-center justify-center gap-2 w-40 border-2 border-slate-900 lg:hover:border-green-500 
+              flex-col items-center justify-center gap-2 w-36 border-2 border-slate-900 lg:hover:border-green-500 
               lg:hover:scale-110 transition-all lg:active:scale-95">
                 <GiAbdominalArmor className="text-5xl"/>
                 <h2 className="text-xl">Abdominales</h2>
@@ -19,7 +19,7 @@ export default function GymExcercisesPage() {
             </li>
             <li>
               <Link href='/ejersicioengym/pecho' className=" rounded-full bg-slate-900 aspect-square flex 
-              flex-col items-center justify-center gap-2 w-40 border-2 border-slate-900 lg:hover:border-green-500 
+              flex-col items-center justify-center gap-2 w-36 border-2 border-slate-900 lg:hover:border-green-500 
               lg:hover:scale-110 transition-all lg:active:scale-95">
                 <GiAbdominalArmor className="text-5xl"/>
                 <h2 className="text-xl">Pecho</h2>
@@ -27,7 +27,7 @@ export default function GymExcercisesPage() {
             </li>
             <li>
               <Link href='/ejersicioengym/espalda' className=" rounded-full bg-slate-900 aspect-square flex 
-              flex-col items-center justify-center gap-2 w-40 border-2 border-slate-900 lg:hover:border-green-500 
+              flex-col items-center justify-center gap-2 w-36 border-2 border-slate-900 lg:hover:border-green-500 
               lg:hover:scale-110 transition-all lg:active:scale-95">
                 <GiAbdominalArmor className="text-5xl"/>
                 <h2 className="text-xl">Espalda</h2>
@@ -35,7 +35,7 @@ export default function GymExcercisesPage() {
             </li>
             <li>
               <Link href='/ejersicioengym/hombros' className=" rounded-full bg-slate-900 aspect-square flex 
-              flex-col items-center justify-center gap-2 w-40 border-2 border-slate-900 lg:hover:border-green-500 
+              flex-col items-center justify-center gap-2 w-36 border-2 border-slate-900 lg:hover:border-green-500 
               lg:hover:scale-110 transition-all lg:active:scale-95">
                 <GiAbdominalArmor className="text-5xl"/>
                 <h2 className="text-xl">Hombros</h2>
@@ -43,7 +43,7 @@ export default function GymExcercisesPage() {
             </li>
             <li>
               <Link href='/ejersicioengym/brazo' className=" rounded-full bg-slate-900 aspect-square flex 
-              flex-col items-center justify-center gap-2 w-40 border-2 border-slate-900 lg:hover:border-green-500 
+              flex-col items-center justify-center gap-2 w-36 border-2 border-slate-900 lg:hover:border-green-500 
               lg:hover:scale-110 transition-all lg:active:scale-95">
                 <GiAbdominalArmor className="text-5xl"/>
                 <h2 className="text-xl">Brazo</h2>
@@ -51,7 +51,7 @@ export default function GymExcercisesPage() {
             </li>
             <li>
               <Link href='/ejersicioengym/pierna' className=" rounded-full bg-slate-900 aspect-square flex 
-              flex-col items-center justify-center gap-2 w-40 border-2 border-slate-900 lg:hover:border-green-500 
+              flex-col items-center justify-center gap-2 w-36 border-2 border-slate-900 lg:hover:border-green-500 
               lg:hover:scale-110 transition-all lg:active:scale-95 min-[]:">
                 <GiAbdominalArmor className="text-5xl"/>
                 <h2 className="text-xl">Pierna</h2>
