@@ -1,7 +1,8 @@
 [
   {
+    "id" : "press-de-banca",
     "name" : "Press de Banca",
-    "img" : "/img/gym-excercises/press-de-banca.png",
+    "image" : "/img/gym-excercises/press-de-banca.png",
     "muscles-involved" : {
       "principal" : "pectoral mayor, tríceps y deltoides anterior",
       "secundary" : "coracobraquial, serrato anterior y subescapular",
@@ -11,8 +12,9 @@
     "caution" : "arquear la espalda (pies muy bajos), rebotar demasiado la barra sobre el pecho, bajarla hacia el cuello o abdomen, exceso o defecto de peso, bloquear los codos arriba y mover los pies, la espalda o la cabeza."
   },
   {
+    "id" : "press-de-banca-inclinado",
     "name" : "Press de Banca Inclinado",
-    "img" : "/img/gym-excercises/press-de-banca-inclinado.png",
+    "image" : "/img/gym-excercises/press-de-banca-inclinado.png",
     "muscles-involved" : {
       "principal" : "pectoral mayor (zona clavicular), tríceps y deltoides anterior",
       "secundary" : "deltoides medio, coracobraquial, serrato anterior y subescapular",
@@ -22,8 +24,9 @@
     "caution" : ": inclinar excesivamente el banco (más de 50º), arquear la espalda, rebotar en exceso la barra sobre el pecho y bloquear los codos arriba"
   },
   {
+    "id" : "press-de-banca-declinado",
     "name" : "Press de Banca Declinado",
-    "img" : "/img/gym-excercises/press-de-banca-declinado.png",
+    "image" : "/img/gym-excercises/press-de-banca-declinado.png",
     "muscles-involved" : {
       "principal" : "pectoral mayor (zona inferior), tríceps y deltoides anterior",
       "secundary" : ":pectoral menor, coracobraquial, serrato anterior y subescapular",

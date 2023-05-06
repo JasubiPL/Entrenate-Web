@@ -1,0 +1,12 @@
+{
+  "id" : "press-de-banca",
+  "name" : "Press de Banca",
+  "img" : "/image/gym-excercises/press-de-banca.png",
+  "muscles_involved" : {
+    "principal" : "pectoral mayor, tríceps y deltoides anterior",
+    "secundary" : "coracobraquial, serrato anterior y subescapular",
+    "antagonist" : "dorsal ancho, bíceps y deltoides posterior"
+  },
+  "execution" : "Tumbado sobre un banco plano (decúbito supino), con la cabeza, la espalda y los pies bien apoyados, se debe sujetar la barra simétricamente con un agarre algo más ancho que los hombros, sobre la vertical de nuestros ojos, en pronación (con las palmas hacia los pies), preferiblemente con el pulgar por debajo de la barra. Se inspira antes de sacar la barra del soporte, se coloca frente al pecho, se desciende con los codos separados del tronco hasta rozarlo en su parte media y se vuelve a subir verticalmente. Se toma aire en el comienzo de la bajada y se expulsa al terminar de subir.",
+  "caution" : "arquear la espalda (pies muy bajos), rebotar demasiado la barra sobre el pecho, bajarla hacia el cuello o abdomen, exceso o defecto de peso, bloquear los codos arriba y mover los pies, la espalda o la cabeza."
+}
