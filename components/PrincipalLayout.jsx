@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Nav from "./Nav";
+import Footer from "./Footer";
 
 export default function PrincipalLayout({title, children}) {
   return (
@@ -12,6 +13,7 @@ export default function PrincipalLayout({title, children}) {
         <Nav />
       </header>
       {children}
+      <Footer />
     </>
   );
 };

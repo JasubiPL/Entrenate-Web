@@ -8,7 +8,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <PrincipalLayout title='Piñeyro Fit'>
-      <main className=' min-h-screen flex justify-center bg-gray-950 py-16'>
+      <main className=' min-h-screen flex justify-center bg-gray-950 py-4'>
         <section className='w-full max-w-5xl flex flex-wrap gap-6 p-4 justify-center items-start lg:items-center
         lg:flex-nowrap'>
           <Link href='/ejersicioencasa' className='bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
