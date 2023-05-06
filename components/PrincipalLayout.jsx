@@ -6,7 +6,7 @@ export default function PrincipalLayout({title, children}) {
   return (
     <>
       <Head>
-        <title>{ title }</title>
+        <title>{ `${title} | Piñeyro-Fit` }</title>
 
       </Head>
       <header>
