@@ -26,7 +26,7 @@ export default function Comic({ img, name, muscles_involved, execution, caution 
 }
 
 export async function getStaticPaths(){
-  const files = await readdir("./excercises/gym-excercises", "utf-8")
+  const files = await readdir("./excercises/gym-excercises/chest", "utf-8")
   
 
   const paths = files.map(file => {
@@ -43,7 +43,7 @@ export async function getStaticPaths(){
 export async function getStaticProps({ params }){
   const { id } = params
 
-  const content = await readFile(`./excercises/gym-excercises/${id}.json`, "utf-8")
+  const content = await readFile(`./excercises/gym-excercises/chest/${id}.json`, "utf-8")
   const excercise = JSON.parse(content)
 
   return {
