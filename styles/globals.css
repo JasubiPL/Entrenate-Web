@@ -9,7 +9,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  color: #fff;
   font-family: 'Montserrat', sans-serif
 }
 
@@ -19,4 +18,37 @@ body {
 
 h1, h2, h3{
   font-family: 'Bebas Neue', cursive;
+}
+
+.dev-list-mobile-animation{
+  animation: listMobile 1s;
+}
+
+@media screen and (min-width:1024px){
+  .dev-list-mobile-animation{
+    animation: listDesktop 1s;
+  }
+}
+
+
+/*---- Animation ----*/
+
+@keyframes listMobile {
+  0%{
+    transform: translateX(-100vw);
+  }
+  100%{
+    transform: translateX(0vw);
+  }
+}
+
+@keyframes listDesktop {
+  0%{
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

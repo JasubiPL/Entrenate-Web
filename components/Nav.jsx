@@ -9,7 +9,7 @@ export default function Nav() {
       </Link>
       <section className=''>
         <a href='https://www.facebook.com/entrenate' target="_blanck">
-          <SiFacebook className='text-2xl hover:scale-110 transition-all'/>
+          <SiFacebook className='text-2xl hover:scale-110 transition-all text-white'/>
         </a>
       </section>
     </nav>
