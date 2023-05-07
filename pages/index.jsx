@@ -1,7 +1,6 @@
 import PrincipalLayout from "@/components/PrincipalLayout";
-import { TbHomeBolt } from 'react-icons/tb'
+import { TbHomeBolt, TbTrees } from 'react-icons/tb'
 import { GiGymBag } from 'react-icons/gi'
-import { TbTrees } from 'react-icons/tb'
 import Link from "next/link";
 
 
@@ -17,7 +16,7 @@ export default function Home() {
         </section>
         <section className='w-full max-w-5xl flex flex-wrap gap-6  justify-center items-start lg:items-center
         lg:flex-nowrap'>
-          <Link href='/ejersicioencasa' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
+          <Link href='/ejercicioencasa' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-red-500 
           hover:shadow-lg hover:shadow-red-200 transition-all active:scale-95
           dev-list-mobile-animation-up'>
@@ -29,7 +28,7 @@ export default function Home() {
               maiores illo aliquam veritatis hic cumque, perspiciatis in quaerat! Ipsam
             </p>
           </Link>
-          <Link href='/ejersicioengym' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
+          <Link href='/ejercicioengym' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-green-500 
           hover:shadow-lg hover:shadow-green-200 transition-all active:scale-95
           dev-list-mobile-animation-up'>
@@ -41,7 +40,7 @@ export default function Home() {
               maiores illo aliquam veritatis hic cumque, perspiciatis in quaerat! Ipsam
             </p>
           </Link>
-          <Link href='/ejersicioenarealibre' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
+          <Link href='/ejercicioenarealibre' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-blue-500 
           hover:shadow-lg hover:shadow-blue-200 transition-all active:scale-95
           dev-list-mobile-animation-up'>

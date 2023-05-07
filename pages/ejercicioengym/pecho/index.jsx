@@ -20,7 +20,7 @@ export default function ChestExcercisesMenu({ excercises }) {
           <ul className="w-full max-w-5xl flex flex-col gap-3 md:flex-row md:flex-wrap md:justify-evenly">
             {excercises.map(excercise =>{
               return (
-                <Link key={excercise.id} href={`/ejersicioengym/pecho/${excercise.id}`}>
+                <Link key={excercise.id} href={`/ejercicioengym/pecho/${excercise.id}`}>
                   <li className="w-full h-20 flex gap-2 bg-slate-900 rounded-md overflow-hidden dev-list-mobile-animation
                   md:w-60 md:flex-col md:h-full lg:border-4 lg:hover:-translate-y-2 lg:rounded-xl lg:border-slate-950
                    lg:hover:border-green-500 transition-all">
