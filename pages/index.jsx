@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <PrincipalLayout title='Piñeyro Fit'>
       <main className=' min-h-screen flex flex-col items-center px-2 gap-4 bg-gray-950 py-4 text-white'>
-        <section className="w-full flex max-w-5xl h-36 lg:h-64 filter grayscale relative">
+        <section className="w-full flex max-w-5xl h-36 lg:h-64 filter grayscale relative dev-animation-left">
           <img src="/image/banner.jpg" alt="banner principal" 
             className="object-cover rounded-xl"
           />
@@ -19,7 +19,8 @@ export default function Home() {
         lg:flex-nowrap'>
           <Link href='/ejersicioencasa' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-red-500 
-          hover:shadow-lg hover:shadow-red-200 transition-all active:scale-95'>
+          hover:shadow-lg hover:shadow-red-200 transition-all active:scale-95
+          dev-list-mobile-animation-up'>
             <TbHomeBolt className='text-6xl group-hover:text-red-500'/>
             <h2 className='text-2xl'>Ejercicio en Casa</h2>
             <p className="text-sm font-light">
@@ -30,7 +31,8 @@ export default function Home() {
           </Link>
           <Link href='/ejersicioengym' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-green-500 
-          hover:shadow-lg hover:shadow-green-200 transition-all'>
+          hover:shadow-lg hover:shadow-green-200 transition-all active:scale-95
+          dev-list-mobile-animation-up'>
             <GiGymBag className='text-6xl group-hover:text-green-500'/>
             <h2 className='text-2xl'>Ejercicio en GYM</h2>
             <p className="text-sm font-light">
@@ -41,7 +43,8 @@ export default function Home() {
           </Link>
           <Link href='/ejersicioenarealibre' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-blue-500 
-          hover:shadow-lg hover:shadow-blue-200 transition-all'>
+          hover:shadow-lg hover:shadow-blue-200 transition-all active:scale-95
+          dev-list-mobile-animation-up'>
             <TbTrees className='text-6xl group-hover:text-blue-500' />
             <h2 className='text-2xl'>Ejercicio en Area Libre</h2>
             <p className="text-sm font-light">

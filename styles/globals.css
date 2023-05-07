@@ -24,10 +24,18 @@ h1, h2, h3{
   animation: listMobile 1s;
 }
 
+.dev-list-mobile-animation-up{
+  animation: listDesktop 1s;
+}
+
 @media screen and (min-width:1024px){
   .dev-list-mobile-animation{
     animation: listDesktop 1s;
   }
+}
+
+.dev-animation-left{
+  animation: listMobile 1s;
 }
 
 
