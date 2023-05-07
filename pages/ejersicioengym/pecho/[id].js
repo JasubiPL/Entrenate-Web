@@ -1,26 +1,40 @@
 import { readFile, readdir } from "fs/promises"
 import { basename } from "path"
 import PrincipalLayout from "@/components/PrincipalLayout"
+import Link from "next/link"
 
-export default function Comic({ img, name, muscles_involved, execution, caution  }){
+export default function Comic({ img, name, muscles_involved, execution, caution, }){
   return(
     <PrincipalLayout title={name}>
-      <h1>{name}</h1>
-      <img src={img} alt={name} />
-      <ol>
-        <label>Musculos afectados</label>
-        <li>Principal: {muscles_involved.principal}</li>
-        <li>Secundario: {muscles_involved.secundary}</li>
-        <li>Antagonico: {muscles_involved.antagonist}</li>
-      </ol>
-      <p>
-        Ejecucion: <br />
-        {execution}
-      </p>
-      <p>
-        Precauciones ⚠ : <br />
-        {caution}
-      </p>
+      <main className="w-full items-center flex flex-col">
+        <img src={img} alt={name}  className="w-full lg:max-w-5xl lg:mt-8"/>
+        <section className="w-full lg:max-w-5xl flex flex-col gap-4 p-2">
+          <h1 className="text-3xl lg:text-5xl lg:py-8">{name}</h1>
+          <ol>
+            <label className="text-md lg:text-2xl font-bold text-red-500">🔥 Musculos afectados</label>
+            <li className="text-sm lg:text-lg font-light">
+              <span className="font-semibold">Principal: </span> 
+              {muscles_involved.principal}
+            </li>
+            <li className="text-sm lg:text-lg font-light">
+              <span className="font-semibold">Secundario: </span> 
+              {muscles_involved.secundary}
+            </li>
+            <li className="text-sm lg:text-lg font-light">
+              <span className="font-semibold">Antagonista: </span> 
+              {muscles_involved.antagonist}
+            </li>
+          </ol>
+          <section>
+            <label className="text-md lg:text-2xl font-bold text-green-500">✅ Ejecucion: </label><br />
+            <p className="text-sm lg:text-lg font-light">{execution}</p>
+          </section>
+          <section>
+            <label className="text-md lg:text-2xl font-bold text-yellow-300">⚠️ Precauciónes: </label><br />
+            <p className="text-sm lg:text-lg font-light">{caution}</p>
+          </section>
+        </section>
+      </main>
     </PrincipalLayout>
   )
 }
