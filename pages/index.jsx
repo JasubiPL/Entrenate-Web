@@ -17,27 +17,27 @@ export default function Home() {
         <section className='w-full max-w-5xl flex flex-wrap gap-6  justify-center items-start lg:items-center
         lg:flex-nowrap'>
           <Link href='/ejercicioencasa' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
-          gap-4 text-center border-2 border-gray-900 hover:border-red-500 
-          hover:shadow-lg hover:shadow-red-200 transition-all active:scale-95
-          dev-list-mobile-animation-up'>
-            <TbHomeBolt className='text-6xl group-hover:text-red-500'/>
-            <h2 className='text-2xl'>Ejercicio en Casa</h2>
-            <p className="text-sm font-light">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Temporibus delectus sed omnis quia qui, rem, libero autem nam vero ducimus 
-              maiores illo aliquam veritatis hic cumque, perspiciatis in quaerat! Ipsam
-            </p>
-          </Link>
-          <Link href='/ejercicioengym' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
           gap-4 text-center border-2 border-gray-900 hover:border-green-500 
           hover:shadow-lg hover:shadow-green-200 transition-all active:scale-95
           dev-list-mobile-animation-up'>
-            <GiGymBag className='text-6xl group-hover:text-green-500'/>
+            <TbHomeBolt className='text-6xl group-hover:text-green-500'/>
+            <h2 className='text-2xl'>Ejercicio en Casa</h2>
+            <p className="text-sm font-light">
+              Con el ejercicio en casa, puedes personalizar tu rutina según tus 
+              necesidades y preferencias, y no tienes que preocuparte por los horarios 
+              del gimnasio. ¡Además, ahorras tiempo y dinero en desplazamientos!
+            </p>
+          </Link>
+          <Link href='/ejercicioengym' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
+          gap-4 text-center border-2 border-gray-900 hover:border-red-500 
+          hover:shadow-lg hover:shadow-red-200 transition-all active:scale-95
+          dev-list-mobile-animation-up'>
+            <GiGymBag className='text-6xl group-hover:text-red-500'/>
             <h2 className='text-2xl'>Ejercicio en GYM</h2>
             <p className="text-sm font-light">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Temporibus delectus sed omnis quia qui, rem, libero autem nam vero ducimus 
-              maiores illo aliquam veritatis hic cumque, perspiciatis in quaerat! Ipsam
+              En el gimnasio, puedes disfrutar de una amplia gama de actividades físicas y 
+              entrenamientos personalizados según tus objetivos. Desde levantamiento de 
+              pesas hasta entrenamiento funcional, hay algo para todos.
             </p>
           </Link>
           <Link href='/ejercicioenarealibre' className='group bg-gray-900 rounded-xl w-full max-w-sm p-6 flex flex-col items-center
@@ -47,9 +47,7 @@ export default function Home() {
             <TbTrees className='text-6xl group-hover:text-blue-500' />
             <h2 className='text-2xl'>Ejercicio en Area Libre</h2>
             <p className="text-sm font-light">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Temporibus delectus sed omnis quia qui, rem, libero autem nam vero ducimus 
-              maiores illo aliquam veritatis hic cumque, perspiciatis in quaerat! Ipsam
+              Desde correr hasta andar en bicicleta, calistenia y Además, puedes disfrutar del aire fresco y la vista mientras te ejercitas, lo que hace que el ejercicio al aire libre sea una experiencia más agradable.
             </p>
           </Link>
         </section>
