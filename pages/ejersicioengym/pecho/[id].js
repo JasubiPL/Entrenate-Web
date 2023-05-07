@@ -6,7 +6,7 @@ import Link from "next/link"
 export default function Comic({ img, name, muscles_involved, execution, caution, }){
   return(
     <PrincipalLayout title={name}>
-      <main className="w-full items-center flex flex-col">
+      <main className="w-full items-center flex flex-col mb-8">
         <img src={img} alt={name}  className="w-full lg:max-w-5xl lg:mt-8"/>
         <section className="w-full lg:max-w-5xl flex flex-col gap-4 p-2">
           <h1 className="text-3xl lg:text-5xl lg:py-8">{name}</h1>
