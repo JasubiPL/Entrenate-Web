@@ -38,6 +38,10 @@ h1, h2, h3{
   animation: listMobile 1s;
 }
 
+.dev-animation-up{
+  animation: listDesktop 1s;
+}
+
 
 /*---- Animation ----*/
 
