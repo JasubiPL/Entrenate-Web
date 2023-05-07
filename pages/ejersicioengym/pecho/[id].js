@@ -1,9 +1,8 @@
 import { readFile, readdir } from "fs/promises"
 import { basename } from "path"
 import PrincipalLayout from "@/components/PrincipalLayout"
-import Link from "next/link"
 
-export default function Comic({ img, name, muscles_involved, execution, caution, }){
+export default function ChestExcercise({ img, name, muscles_involved, execution, caution, }){
   return(
     <PrincipalLayout title={name}>
       <main className="w-full items-center flex flex-col mb-8">
