@@ -1,0 +1,12 @@
+{
+  "id" : "aperturas-en-poleas-bajas",
+  "name" : "Aperturas en Poleas Bajas 'Cristos en Poleas'",
+  "img" : "/image/gym-excercises/chest/aperturas-en-poleas-bajas.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor y deltoides anterior.",
+    "secundary" : "Coracobraquial, subescapular, serratos y bíceps braquial.",
+    "antagonist" : "Dorsal mayor, deltoides posterior, trapecio, romboides y redondos."
+  },
+  "execution" : "Este ejercicio se realiza tumbado sobre un banco plano, con los pies sobre el suelo (si el banco es bajo) o apoyados en un escalón. Se sujetan los agarres de las poleas sobre la vertical de nuestro pecho con los codos semiflexionados, las palmas enfrentadas (con los nudillos hacia fuera). Se inspira durante la bajada, se desciende hasta llegar a la altura del pectoral (según la flexibilidad) sin variar la flexión del codo; se vuelven a subir verticalmente y hacia adentro. Los codos permanecen perpendiculares al cuerpo (separados), a modo de 'abrazo'. Se espira al terminar de subir.",
+  "caution" : "desarrollar poco recorrido en la apertura por defecto en la longitud del cable o en la cercanía de las poleas, realizar press en lugar de aperturas, desconcentrar el trabajo sobre el pectoral y desplazar el esfuerzo demasiado hacia los deltoides."
+}

@@ -1,0 +1,12 @@
+{
+  "id" : "press-de-banca-en-smith",
+  "name" : "Press de Banca en Smith",
+  "img" : "/image/gym-excercises/chest/press-de-banca-en-smith.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor, tríceps y deltoides anterior.",
+    "secundary" : "Coracobraquial, serrato anterior y subescapular.",
+    "antagonist" : "Dorsal mayor, bíceps y deltoides posterior"
+  },
+  "execution" : "Tumbado sobre un banco plano en la máquina multipower o Smith (con guías laterales), con los pies en el suelo (si el banco es bajo) o apoyados sobre un escalón, se sujeta la barra sobre la vertical de nuestro pecho con una separación mayor a la de nuestros hombros, el pulgar debe situarse siempre por debajo de la barra (en oposición al resto de dedos). Se saca la barra del soporte, se gira con las manos para que no tope al bajar, se desciende hasta rozar el pecho en su parte media y se vuelve a subir. Los codos permanecen perpendiculares al cuerpo (separados). Se inspira en la primera mitad de la bajada y se espira al terminar de subir.",
+  "caution" : "Mala regulación de la postura en la máquina, demasiado rebote de la barra sobre el tórax, bloqueos de los codos arriba, empuje desigual con ambos brazos y colocación del pulgar junto al resto de dedos."
+}

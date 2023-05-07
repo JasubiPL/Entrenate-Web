@@ -1,12 +1,12 @@
 {
   "id" : "press-de-banca-declinado",
   "name" : "Press de Banca Declinado",
-  "img" : "/image/gym-excercises/press-de-banca-declinado.png",
+  "img" : "/image/gym-excercises/chest/press-de-banca-declinado.png",
   "muscles_involved" : {
-    "principal" : "pectoral mayor (zona inferior), tríceps y deltoides anterior",
-    "secundary" : ":pectoral menor, coracobraquial, serrato anterior y subescapular",
-    "antagonist" : "dorsal ancho, bíceps y deltoides posterior"
+    "principal" : "Pectoral mayor (zona inferior), tríceps y deltoides anterior",
+    "secundary" : "Pectoral menor, coracobraquial, serrato anterior y subescapular",
+    "antagonist" : "Dorsal ancho, bíceps y deltoides posterior"
   },
   "execution" : "Tumbado sobre un banco declinado entre 20º y 30º, con la cabeza hacia abajo y las piernas sujetas, se sujeta la barra sobre la vertical de nuestros ojos en pronación (con las palmas hacia los pies). Se inspira antes de sacar la barra del soporte, se desciende hasta rozar el pecho en su parte inferior y se vuelve a subir verticalmente. Los antebrazos han de moverse perpendiculares al suelo (ver ejercicios 1 y 2) y los codos, como en anteriores casos, deben permanecer separados del cuerpo. Se espira al terminar de subir la barra",
-  "caution" : "gran declinación del banco, demasiado peso y excesiva práctica de este ejercicio"
+  "caution" : "Gran declinación del banco, demasiado peso y excesiva práctica de este ejercicio"
 }

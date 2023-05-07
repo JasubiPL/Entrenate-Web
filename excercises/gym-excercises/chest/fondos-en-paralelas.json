@@ -1,0 +1,12 @@
+{
+  "id" : "fondos-en-paralelas",
+  "name" : "Fondos en Paralelas",
+  "img" : "/image/gym-excercises/chest/fondos-en-paralelas.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor (inferior), tríceps, deltoides anterior y pectoral menor.",
+    "secundary" : "Serrato anterior, coracobraquial y subescapular.",
+    "antagonist" : "Dorsal mayor, bíceps, deltoides posterior y trapecio."
+  },
+  "execution" : "Sujeto a las barras paralelas con un agarre neutro (o mejor en 'V', semipronado) moderadamente ancho, con el tronco ligeramente inclinado hacia delante y las piernas juntas, se inspira mientras bajamos en vertical flexionando el tronco hacia delante y adelantando las piernas. Al tiempo que se baja se separan los codos del tronco. Al llegar al punto bajo volvemos a subir y para terminar se espira. ",
+  "caution" : "Poco recorrido, excesivo trabajo del tríceps, demasiado lastre cuando se utiliza durante el ejercicio, mala colocación del tronco durante el movimiento y alta velocidad."
+}

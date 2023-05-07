@@ -1,0 +1,12 @@
+{
+  "id" : "cruces-en-polea",
+  "name" : "Cruces en Polea",
+  "img" : "/image/gym-excercises/chest/cruces-en-polea.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor y deltoides anterior",
+    "secundary" : "Pectoral menor, coracobraquial, serrato anterior, subescapular y bíceps",
+    "antagonist" : "Dorsal mayor, deltoides posterior y tríceps."
+  },
+  "execution" : "Hay que situarse de pie entre las dos poleas, con las piernas semiflexionadas (preferiblemente con una más adelantada), con el tronco ligeramente flexionado (entre 15º a 45º aproximadamente) y con la fijación de los músculos abdominales. Se parte de los brazos en cruz y los codos semiflexionados, se juntan cerrándose a modo de abrazo, al frente y abajo (casi en 'aducción horizontal') sin variar la flexión del codo en todo el recorrido. Se inspira al abrir y se espira al terminar de cerrar.",
+  "caution" : "Mala regulación de la postura en la máquina, excesivo trabajo del tríceps, bloqueos de codos arriba y empuje desigual con ambos brazos."
+}

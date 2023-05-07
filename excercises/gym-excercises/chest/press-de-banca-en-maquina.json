@@ -1,0 +1,12 @@
+{
+  "id" : "press-de-banca-en-maquina",
+  "name" : "Press de Banca en Maquina",
+  "img" : "/image/gym-excercises/chest/press-de-banca-en-maquina.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor, tríceps y deltoides anterior",
+    "secundary" : "Coracobraquial, serrato anterior y subescapular",
+    "antagonist" : "Dorsal mayor, bíceps y deltoides posterior"
+  },
+  "execution" : "Tumbado sobre el banco plano del aparato, con los pies sobre el suelo (si el banco es bajo) o apoyados en alto, se sujetan los agarres sobre la vertical de nuestro pecho, en pronación (con las palmas hacia los pies), con una separación algo mayor que la de los hombros y con el dedo pulgar preferiblemente por debajo del agarre. Se inspira durante la bajada, se desciende hasta la altura del pecho en su parte media y se vuelve a subir verticalmente. Los codos permanecen perpendiculares al cuerpo (separados), pero no se bloquean al llegar arriba. Se espira al terminar de subir",
+  "caution" : "Mala regulación de la postura en la máquina, excesivo trabajo del tríceps, bloqueos de codos arriba y empuje desigual con ambos brazos."
+}

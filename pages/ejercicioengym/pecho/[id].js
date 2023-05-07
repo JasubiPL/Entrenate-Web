@@ -6,8 +6,8 @@ export default function ChestExcercise({ img, name, muscles_involved, execution,
   return(
     <PrincipalLayout title={name}>
       <main className="w-full items-center flex flex-col mb-8 text-white dev-animation-up">
-        <img src={img} alt={name}  className="w-full lg:max-w-5xl lg:mt-8"/>
-        <section className="w-full lg:max-w-5xl flex flex-col gap-4 p-2">
+        <img src={img} alt={name}  className="w-full lg:max-w-4xl lg:mt-8"/>
+        <section className="w-full lg:max-w-4xl flex flex-col gap-4 p-2">
           <h1 className="text-3xl lg:text-5xl lg:py-8">{name}</h1>
           <ol>
             <label className="text-md lg:text-2xl font-bold text-red-500">🔥 Musculos afectados</label>
@@ -25,11 +25,11 @@ export default function ChestExcercise({ img, name, muscles_involved, execution,
             </li>
           </ol>
           <section>
-            <label className="text-md lg:text-2xl font-bold text-green-500">✅ Ejecucion: </label><br />
+            <label className="text-md lg:text-2xl font-bold text-green-500">✅ Ejecución </label><br />
             <p className="text-sm lg:text-lg font-light">{execution}</p>
           </section>
           <section>
-            <label className="text-md lg:text-2xl font-bold text-yellow-300">⚠️ Precauciónes: </label><br />
+            <label className="text-md lg:text-2xl font-bold text-yellow-300">⚠️ Errores frecuentes </label><br />
             <p className="text-sm lg:text-lg font-light">{caution}</p>
           </section>
         </section>

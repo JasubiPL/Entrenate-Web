@@ -1,0 +1,12 @@
+{
+  "id" : "pull-over-con-mancuerna",
+  "name" : "Pull Over con Mancuerna",
+  "img" : "/image/gym-excercises/chest/pull-over-con-mancuerna.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, redondos y pectoral mayor.",
+    "secundary" : "Serrato anterior, coracobraquial, tríceps y romboides",
+    "antagonist" : "Pectoral, deltoides anterior y bíceps."
+  },
+  "execution" : "Tumbado sobre un banco con la cabeza en el borde, sujetamos una mancuerna verticalmente, la barra queda entre el triángulo formado por los pulgares y los índices. Con los codos semiflexionados, bajamos lentamente el peso por encima y por detrás de nuestra cabeza al tiempo que realizamos una profunda inspiración, sin modificar la flexión del codo. Hay que notar cómo se estiran los músculos pectorales y se hincha la caja torácica. Retrocedemos hasta la vertical de nuestros ojos mientras se contrae el pectoral. Espiramos al terminar de subir.",
+  "caution" : "excesivo peso, incorrecta respiración, poco o mucho recorrido y flexiones del codo (tríceps)."
+}

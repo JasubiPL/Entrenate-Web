@@ -1,0 +1,12 @@
+{
+  "id" : "press-con-mancuernas",
+  "name" : "Press con Mancuerna",
+  "img" : "/image/gym-excercises/chest/press-con-mancuernas.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor, tríceps y deltoides anterior",
+    "secundary" : "Coracobraquial, serrato anterior y subescapular",
+    "antagonist" : "Dorsal mayor, bíceps y deltoides posterior"
+  },
+  "execution" : "Tumbado sobre un banco plano (decúbito supino), con la espalda y la cabeza apoyadas y los pies sobre el suelo, si el banco es bajo, o sobre un escalón , se deben sujetar las mancuernas sobre la vertical de nuestro pecho y ligeramente separadas. Como al utilizar la barra, los antebrazos han de moverse perpendiculares al suelo. Se inspira en el inicio de la bajada, se desciende hasta llegar a la altura del pectoral (según flexibilidad) y se vuelve a subir verticalmente y hacia el centro. Los codos permanecerán perpendiculares al cuerpo (separados). Se espira al terminar de subir",
+  "caution" : "Descender en exceso el peso, tomar y soltar el peso de forma incorrecta al empezar y acabar la serie y chocar las mancuernas arriba"
+}

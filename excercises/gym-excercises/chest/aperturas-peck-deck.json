@@ -1,0 +1,12 @@
+{
+  "id" : "aperturas-peck-deck",
+  "name" : "Aperturas Peck Deck",
+  "img" : "/image/gym-excercises/chest/aperturas-peck-deck.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor y deltoides anterior.",
+    "secundary" : "Coracobraquial, subescapular y bíceps (porción corta).",
+    "antagonist" : "Dorsal mayor, deltoides posterior, trapecio, romboides y redondo."
+  },
+  "execution" : "Sentado, con la espalda apoyada y el codo flexionado unos 90º a la altura media del pectoral, sujetamos los agarres y empujamos con los codos para juntar o acercarlos frente a nosotros. Se inspira al abrir hasta el punto que permita nuestra flexibilidad (menor apertura cuanto más peso se pretenda utilizar, por seguridad) y se espira en la parte final de cierre.",
+  "caution" : "Realizar un recorrido inadecuado (poco es insuficiente, mucho es lesivo), separar los codos y empujar con las manos para ayudarse más de los hombros y tomar o dejar el peso sin liberar la carga."
+}

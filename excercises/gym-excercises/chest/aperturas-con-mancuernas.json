@@ -1,0 +1,12 @@
+{
+  "id" : "aperturas-con-mancuernas",
+  "name" : "Aperturas con mancuernas 'Cristos'",
+  "img" : "/image/gym-excercises/chest/aperturas-con-mancuernas.png",
+  "muscles_involved" : {
+    "principal" : "Pectoral mayor, deltoides anterior y serrato anterior",
+    "secundary" : "Coracobraquial, subescapular y bíceps braquial",
+    "antagonist" : "Dorsal mayor, deltoides posterior, tríceps, trapecio, romboides y redondos."
+  },
+  "execution" : "Tumbado sobre un banco plano estrecho, con los pies sobre el suelo (si el banco es bajo) o apoyados en alto y con la espalda y la cabeza apoyadas, se sujetan las mancuernas sobre la vertical de nuestro pecho ligeramente separadas, con las palmas enfrentadas y los codos semiflexionados. Se inspira profundamente mientras se desciende hasta llegar a la altura del pectoral (según flexibilidad) sin variar la flexión del codo; se vuelve a subir verticalmente y hacia adentro sin llegar a tocarlas y se espira. Los codos se mueven separados del cuerpo a modo de 'abrazo'.",
+  "caution" : "flexionar los codos y convertir el ejercicio en un press (no es perjudicial, pero dejan de ser aperturas), excederse en el peso de las mancuernas y poner en peligro las articulaciones, desviar el esfuerzo a los deltoides y respirar de forma incorrecta"
+}
