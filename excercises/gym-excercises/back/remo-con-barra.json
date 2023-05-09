@@ -1,0 +1,12 @@
+{
+  "id" : "remo-con-barra",
+  "name" : "Remo con Barra",
+  "img" : "/image/gym-excercises/back/remo-con-barra.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, redondos y deltoides posterior.",
+    "secundary" : "Romboides, bíceps, braquial anterior, braquiorradial, trapecio, infraespinoso y (lumbares).",
+    "antagonist" : "Pectoral mayor, tríceps y deltoides anterior"
+  },
+  "execution" : "De pie, con el tronco recto, la cadera flexionada unos 45º y las rodillas semiflexionadas, todos bloqueados, se sujeta la barra en pronación (con las palmas hacia el cuerpo) con una separación algo superior a la de los hombros. Tiramos de los brazos con los codos siempre abiertos hasta llevar la barra a la zona abdominal. Se inspira justo antes de bajar el peso mediante una bocanada de aire, se mantiene en apnea durante el recorrido y se expulsa (rápidamente) al terminar de subir. Procurar no perder la tensión lograda por la retención del aire, que ayuda a sostener el tronco.",
+  "caution" : "Balancear el cuerpo extendiéndolo, realizar las series o el recorrido de forma incompleta, curvar la espalda, llevar la barra al pecho y respirar incorrectamente."
+}

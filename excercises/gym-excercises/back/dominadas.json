@@ -1,0 +1,12 @@
+{
+  "id" : "dominadas",
+  "name" : "Dominadas",
+  "img" : "/image/gym-excercises/back/dominadas.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, bíceps (corto), braquial y redondo mayor.",
+    "secundary" : "Pectoral mayor (inferior y externo), tríceps largo, redondo menor, romboides, braquiorradial, trapecio (inferior), bíceps (largo) y deltoides (clavicular y espinal).",
+    "antagonist" : "Deltoides, pectoral mayor (clavicular) y tríceps."
+  },
+  "execution" : "Sujeto en suspensión en una barra horizontal, manos en pronación (nudillos hacia atrás) con una separación mayor a la de los hombros. Tiramos con los músculos dorsales acercando la zona superior del pecho a la barra al tiempo que arqueamos ligeramente el tronco hacia atrás. Las piernas permanecen relajadas o cruzadas detrás, con las rodillas flexionadas o no. Se inspira durante la primera mitad de la bajada y se espira al llegar arriba.",
+  "caution" : "Alta velocidad, recorrido incompleto, balancear el cuerpo, flexionar tronco y llevar los codos hacia delante para ayudarse del pectoral, flexionar las rodillas para impulsarse, agarre excesivamente abierto, extender los brazos por completo al bajar."
+}

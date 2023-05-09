@@ -1,0 +1,12 @@
+{
+  "id" : "remo-con-mancuerna",
+  "name" : "Remo con Mancuerna",
+  "img" : "/image/gym-excercises/back/remo-con-mancuerna.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, redondos y deltoides posterior.",
+    "secundary" : "Romboides, braquial anterior, bíceps, braquiorradial y trapecio.",
+    "antagonist" : "Pectoral mayor, tríceps y deltoides anterior."
+  },
+  "execution" : "Se debe apoyar sobre un banco horizontal con la mano y la rodilla del mismo lado mientras la otra mano sujeta la mancuerna en posición neutra. La pierna extendida o semiflexionada se apoya en el suelo, en diagonal y algo más atrasada que el cuerpo (según altura), para lograr que el tronco permanezca horizontal y alineado. Desde la posición más baja que permita el estiramiento del dorsal, tiramos (como si serrásemos una madera) para llevar la mancuerna a la cintura, el codo se mueve cerca del tronco y el antebrazo perpendicular al suelo. Se inspira justo antes de subir, se mantiene en apnea arriba y se espira en la parte final de la bajada.",
+  "caution" : "subir el peso hacia el hombro, bajarlo hacia delante y no en vertical, rotar en exceso el tronco al subir, trabajar con peso insuficiente, curvar el tronco al colocar el pie de apoyo muy vertical (si el banco es bajo, por ejemplo) y no colocar el tronco horizontal."
+}

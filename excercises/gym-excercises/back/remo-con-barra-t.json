@@ -1,0 +1,12 @@
+{
+  "id" : "remo-con-barra-t",
+  "name" : "Remo con Barra T",
+  "img" : "/image/gym-excercises/back/remo-con-barra-t.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, redondos y deltoides posterior.",
+    "secundary" : "Romboides, bíceps, braquial anterior, braquiorradial, trapecio, infraespinoso y (lumbares).",
+    "antagonist" : "Pectoral mayor, tríceps y deltoides anterior."
+  },
+  "execution" : "De pie, con el tronco recto, la cadera flexionada unos 45º y las rodillas semiflexionadas, todos bloqueados, se sujeta la barra T en pronación (con las palmas hacia abajo). Tiramos de los brazos con los codos siempre abiertos hasta llevar la barra a la zona abdominal. Puede incorporarse al tiempo un poco todo el cuerpo en ligero acompañamiento. Debido a la posición, se inspira justo antes de descender el peso, se mantiene en apnea y se espira en el último tercio de la subida sin soltar todo el aire.",
+  "caution" : "balancear el cuerpo extendiéndolo demasiado, realizar las series o el recorrido de forma incompleta y curvar la espalda u otras malas posiciones."
+}

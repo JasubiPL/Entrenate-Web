@@ -4,23 +4,23 @@ import Link from "next/link";
 import path from "path";
 import { GiGymBag } from 'react-icons/gi'
 
-export default function ChestExcercisesMenu({ excercises }) {
+export default function BackExcercisesMenu({ excercises }) {
 
   return (
     <PrincipalLayout title='Ejersicios para pecho'>
       <main className="w-full flex min-h-screen justify-center bg-slate-950 text-white">
         <section className="w-full max-w-5xl p-2">
           <h2 className="text-3xl lg:text-5xl flex gap-3 my-4">
-            Grupo Pectorales <GiGymBag className="text-green-500"/> 
+            Grupo Dorsales <GiGymBag className="text-green-500"/> 
           </h2>
           <section className=" rounded-xl mt-2 mb-5 overflow-hidden dev-list-mobile-animation">
-            <img src="/image/gym-excercises/chest/grupo-pectorales.png" alt="ejersicio Grupo pctorales" />
+            <img src="/image/gym-excercises/back/grupo-dorsales.png" alt="ejersicios Grupo dorsales" />
           </section>
           <h2 className="text-2xl lg:text-4xl">Ejercicios</h2>
           <ul className="w-full max-w-5xl flex flex-col gap-3 md:flex-row md:flex-wrap md:justify-evenly">
             {excercises.map(excercise =>{
               return (
-                <Link key={excercise.id} href={`/ejercicioengym/pecho/${excercise.id}`}>
+                <Link key={excercise.id} href={`/ejercicioengym/espalda/${excercise.id}`}>
                   <li className="w-full h-20 flex gap-2 bg-slate-900 rounded-md overflow-hidden dev-list-mobile-animation
                   md:w-60 md:flex-col md:h-full lg:border-4 lg:hover:-translate-y-2 lg:rounded-xl lg:border-slate-950
                    lg:hover:border-green-500 transition-all">
@@ -46,7 +46,7 @@ export default function ChestExcercisesMenu({ excercises }) {
 };
 
 export async function getStaticProps() {
-  const dirPath = path.join(process.cwd(), './excercises/gym-excercises/chest');
+  const dirPath = path.join(process.cwd(), './excercises/gym-excercises/back');
   const fileNames = await fs.readdir(dirPath);
 
   const excercises = await Promise.all(fileNames.map(async (fileName) => {
