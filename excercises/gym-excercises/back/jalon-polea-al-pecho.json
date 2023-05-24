@@ -1,0 +1,12 @@
+{
+  "id" : "jalon-polea-al-pecho",
+  "name" : "Jalón al Pecho con Polea",
+  "img" : "/image/gym-excercises/back/jalon-polea-al-pecho.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, bíceps (corto), braquial y redondo mayor.",
+    "secundary" : "Pectoral mayor (inferior y externo), tríceps largo, redondo menor, romboides, braquiorradial, trapecio (inferior), bíceps (largo) y deltoides (clavicular y espinal).",
+    "antagonist" : "Deltoides, pectoral mayor (clavicular) y tríceps."
+  },
+  "execution" : "Nos colocamos sentados en la máquina de 'jalón polea', con las piernas sujetas bajo los topes, la espalda recta y el agarre en pronación (con los nudillos hacia atrás), con una apertura superior a la de los hombros. Se tira de la barra hacia la parte superior del pectoral al tiempo que se arquea ligeramente la espalda, ensanchando el pecho e inclinando un poco el cuerpo hacia atrás. Los codos bajan verticales hacia los costados. Se inspira en la subida de los brazos y se espira al terminar de bajarlos junto al tronco, sin soltar todo el aire; con cargas ligeras puede invertirse la respiración.",
+  "caution" : "Bajar la barra hasta el estómago (carencia de peso), flexionar el tronco para ayudarse de los pectorales y del abdomen, realizar el recorrido de forma incompleta, extender el tronco para ayudarse del lumbar y efectuar un agarre asimétrico o demasiado separado en la barra."
+}

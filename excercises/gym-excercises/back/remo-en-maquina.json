@@ -1,0 +1,12 @@
+{
+  "id" : "remo-en-maquina",
+  "name" : "Remo en Maquina",
+  "img" : "/image/gym-excercises/back/remo-en-maquina.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, braquial, bíceps y redondos.",
+    "secundary" : "Romboides, tríceps (largo), braquiorradial, trapecio (inferior) y deltoides posterior.",
+    "antagonist" : "Deltoides anterior, pectoral mayor y tríceps."
+  },
+  "execution" : "Sentado con el pecho y el abdomen apoyados en el tope (sin separarlos), se agarra el mango al frente, en posición neutra, y se tira de él hacia el estómago al tiempo que ensanchamos el pecho para lograr una fuerte contracción dorsal. En teoría, se inspira a medida que elevamos el peso y se espira, sin soltar todo el aire, al bajarlo. Pero la respiración es antinatural porque al apoyar el abdomen y/o el pecho contra la máquina se dificulta la respiración normal, además se necesita cierta apnea en parte del recorrido y no espirar nunca completamente.",
+  "caution" : "Extender el tronco para ayudarse del lumbar y de los paravertebrales, realizar el recorrido de forma incompleta y elegir una incorrecta regulación (o diseño) de la máquina."
+}

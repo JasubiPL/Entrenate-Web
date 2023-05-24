@@ -1,0 +1,12 @@
+{
+  "id" : "dominadas-en-maquina-con-ayuda",
+  "name" : "Dominadas en Maquina con Ayuda",
+  "img" : "/image/gym-excercises/back/dominadas-en-maquina-con-ayuda.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, bíceps (corto), braquial y redondo mayor.",
+    "secundary" : "Pectoral mayor (inferior y externo), tríceps largo, redondo menor, romboides, braquiorradial, trapecio (inferior), bíceps (largo) y deltoides (clavicular y espinal).",
+    "antagonist" : "Deltoides, pectoral mayor (clavicular) y tríceps."
+  },
+  "execution" : "De rodillas o de pie sobre el soporte (según diseño), el resto del cuerpo se coloca en posición idéntica a las dominadas en peso libre (ver ejercicio 1), es decir, la espalda recta y el agarre en pronación (con los nudillos hacia la cabeza), con una apertura algo superior a la de los hombros. Se tira del cuerpo hacia arriba al tiempo que se arquea ligeramente la espalda, ensanchando el pecho e inclinando un poco el cuerpo hacia atrás. Los codos bajan verticales hacia los costados. Esta máquina permite casi siempre subir completamente vertical hasta pasar por la separación que dejan los agarres de las manos. Se inspira durante la primera mitad de la bajada y se espira al llegar arriba. Se permite invertir la respiración, en función de la técnica",
+  "caution" : "Flexionar el tronco para ayudarse de los pectorales y el abdomen, realizar el recorrido de forma incompleta, forzar las posturas al subir e impulsarse del soporte de ayuda a tirones (no constante)."
+}

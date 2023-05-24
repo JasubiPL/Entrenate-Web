@@ -1,0 +1,12 @@
+{
+  "id" : "pull-over-en-polea-alta",
+  "name" : "Pull Over en Polea Alta",
+  "img" : "/image/gym-excercises/back/pull-over-en-polea-alta.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, redondos y tríceps.",
+    "secundary" : " Deltoides posterior, romboides, pectoral mayor (inferior), trapecio y serratos.",
+    "antagonist" : "Deltoides anterior, coracobraquial, pectoral mayor (superior)..."
+  },
+  "execution" : "De pie frente a la polea alta, con el tronco ligeramente flexionado por el bloqueo isométrico abdominal, asimos la barra en pronación (con las palmas hacia el suelo) a una distancia similar a la de los hombros. Los codos permanecen casi extendidos, pero con la articulación fijada. Descendemos la barra tirando del dorsal y sin flexionar los codos, hasta llevarla a la cintura o los muslos. Ensanchamos el pecho en la parte final para conseguir una mayor contracción, a la vez que arqueamos un poco la espalda. Se inspira al subir los brazos y se espira al terminar de bajarlos, con poco peso puede invertirse la respiración.",
+  "caution" : "Balancear el cuerpo, flexionar el tronco hacia delante para ayudarse del abdomen y realizar un jalón o remo al flexionar los codos."
+}

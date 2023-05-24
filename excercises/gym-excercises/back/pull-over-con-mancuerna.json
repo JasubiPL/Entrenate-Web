@@ -1,0 +1,12 @@
+{
+  "id" : "pull-over-con-mancuerna",
+  "name" : "Pull Over con Mancuerna",
+  "img" : "/image/gym-excercises/back/pull-over-con-mancuerna.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal mayor, redondos y pectoral mayor.",
+    "secundary" : "Serrato anterior, tríceps (especialmente la cabeza larga) y romboides.",
+    "antagonist" : "Pectoral y deltoides anterior"
+  },
+  "execution" : "En decúbito supino (tumbado sobre la espalda) en un banco con la cabeza en el borde, sujetamos una mancuerna verticalmente con las dos manos, mientras las palmas tocan el interior del disco superior. Con los codos semiflexionados, bajamos lentamente el peso por encima y por detrás de nuestra cabeza al tiempo que inspiramos profundamente, sin modificar la flexión del codo. Retrocedemos hasta la posición inicial mientras contraemos el dorsal. Espiramos al finalizar la subida.",
+  "caution" : "Excesivo peso, incorrecta respiración, poco o mucho recorrido, flexo-extensiones del codo y rotación externa del brazo."
+}

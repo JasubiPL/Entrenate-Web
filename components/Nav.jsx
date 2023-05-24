@@ -41,7 +41,7 @@ export default function Nav() {
         <h1 className='text-white text-2xl lg:text-4xl'>Piñeyro-Fit</h1>
         <FcSportsMode className="text-3xl"/>
       </Link>
-      <section className='flex items-center gap-3'>
+      {/*<section className='flex items-center gap-3'>
 
         <CgMenu className="text-white text-2xl lg:hidden" onClick={() => handleMenu()}/>
 
@@ -66,8 +66,8 @@ export default function Nav() {
               Rutinas
             </Link>
           </li>
-        </ul>
-      </section>
+        </ul> 
+      </section>*/}
     </nav>
   );
 };

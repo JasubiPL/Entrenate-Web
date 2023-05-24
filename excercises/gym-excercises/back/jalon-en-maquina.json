@@ -1,0 +1,12 @@
+{
+  "id" : "jalon-en-maquina",
+  "name" : "Maquina de Dorsal 'Jalón en Máquina'",
+  "img" : "/image/gym-excercises/back/jalon-en-maquina.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, bíceps (corto), braquial y redondo mayor.",
+    "secundary" : "Pectoral mayor (inferior y externo), tríceps largo, redondo menor, romboides, braquiorradial, trapecio (inferior), bíceps (largo) y deltoides (clavicular y espinal).",
+    "antagonist" : "Deltoides, pectoral mayor (clavicular) y tríceps."
+  },
+  "execution" : "Sentado con la espalda recta, sujetamos los agarres de la máquina en pronación (con los nudillos hacia atrás), tiramos verticalmente y acercamos los codos hacia los costados. El recorrido lleva desde la casi máxima extensión hasta la contracción abajo más cercana al límite. Se inspira en la subida de los brazos y se espira al terminar de bajarlos junto al tronco, sin soltar todo el aire; con cargas ligeras puede invertirse la respiración.",
+  "caution" : "Flexionar el tronco hacia delante para ayudarse del pectoral y abdomen, realizar el recorrido de forma incompleta y trabajar con peso insuficiente."
+}

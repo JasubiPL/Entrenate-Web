@@ -1,0 +1,12 @@
+{
+  "id" : "remo-con-polea",
+  "name" : "Remo con Polea",
+  "img" : "/image/gym-excercises/back/remo-con-polea.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, braquial, bíceps y redondos.",
+    "secundary" : "Romboides, tríceps (largo), braquiorradial, trapecio (medio e inferior), deltoides posterior y (lumbar y paravertebrales).",
+    "antagonist" : "Deltoides anterior, pectoral mayor y tríceps."
+  },
+  "execution" : "Sentado frente a la polea, con las piernas semiflexionadas apoyadas firmemente frente a nosotros, se agarra el mango en posición neutra y con los brazos casi totalmente extendidos, se tira de éste hacia el estómago al tiempo que ensanchamos el pecho para lograr una fuerte contracción dorsal. El movimiento del tronco, por medio de la zona lumbar, ha de ser corto (ligero acompañamiento). Se inspira al bajar el peso y se espira al subirlo; con cargas ligeras puede invertirse la respiración.",
+  "caution" : "Extender el tronco para ayudarse del lumbar y de los paravertebrales, llevar las manos al pecho y separar mucho los codos del cuerpo para sobreutilizar los bíceps, realizar el recorrido de forma incompleta y trabajar con peso insuficiente."
+}

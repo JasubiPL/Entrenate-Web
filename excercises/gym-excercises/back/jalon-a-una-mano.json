@@ -1,0 +1,12 @@
+{
+  "id" : "jalon-a-una-mano",
+  "name" : "Jalón a una mano",
+  "img" : "/image/gym-excercises/back/jalon-a-una-mano.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, bíceps (corto), braquial y redondo mayor.",
+    "secundary" : "Pectoral mayor (inferior y externo), tríceps largo, redondo menor, romboides, braquiorradial, trapecio (inferior), bíceps (largo) y deltoides (clavicular y espinal).",
+    "antagonist" : "Deltoides, pectoral mayor (clavicular) y tríceps."
+  },
+  "execution" : "Sentado en la máquina de jalón polea, se sujeta el agarre con una mano y se tira llevando el codo hacia el costado. La otra mano permanece en la cintura o acompaña al movimiento como si se trepase por una cuerda (la mano que tira baja mientras la otra se acerca arriba y toca el cable). Se inspira antes de subir, se mantiene en estado de apnea durante todo el recorrido y se espira en el último tercio de la bajada; o bien se invierte la respiración (según el peso utilizado, la técnica...).",
+  "caution" : "Flexionar el tronco para ayudarse del abdomen, realizar el recorrido de forma incompleta y girar demasiado el cuerpo al bajar."
+}

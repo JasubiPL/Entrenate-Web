@@ -1,0 +1,12 @@
+{
+  "id" : "remo-de-pie-en-pole-baja",
+  "name" : "Remo de Pie en Polea Baja",
+  "img" : "/image/gym-excercises/back/remo-de-pie-en-polea-baja.png",
+  "muscles_involved" : {
+    "principal" : "Dorsal ancho, braquial y redondos.",
+    "secundary" : "Bíceps, (lumbar y paravertebrales), romboides, tríceps (largo), braquiorradial, trapecio y deltoides posterior",
+    "antagonist" : "Deltoides anterior, pectoral mayor y tríceps."
+  },
+  "execution" : "De pie, con el tronco flexionado unos 45º, las rodillas ligeramente dobladas, y la espalda firme y recta, agarramos en pronación la barra (con las palmas hacia abajo), que proviene de la polea baja, y tiramos de ella ensanchando el pecho hasta la zona alta del abdomen. Se inspira justo antes de bajar el peso mediante una bocanada de aire, se mantiene en apnea durante el recorrido y se expulsa (rápidamente) al terminar de subir. Procurar no perder la tensión lograda por la retención del aire, que ayuda a sostener el tronco.",
+  "caution" : "Extender el tronco para ayudarse del lumbar y de los paravertebrales, realizar el recorrido de forma incompleta y colocar la espalda curvada."
+}
