@@ -1,0 +1,12 @@
+{
+  "id" : "encogimientos-de-hombros",
+  "name" : "Encogimientos de hombros",
+  "img" : "/image/gym-excercises/shoulder/encogimientos-de-hombros.png",
+  "muscles_involved" : {
+    "principal" : "Trapecio (superior) y elevador de la escápula",
+    "secundary" : "Romboideos, trapecio (medio), deltoides y supraespinoso.",
+    "antagonist" : "Pectoral menor, trapecio inferior, pectoral mayor y dorsal ancho."
+  },
+  "execution" : "De pie, con las piernas ligeramente separadas, con el tronco recto y bloqueado, se sujetan las mancuernas en posición neutra a los lados del cuerpo. Con el mayor recorrido posible, se elevan los hombros y se intenta mantener el peso un instante arriba. Los brazos permanecen como simples ganchos que lo sujetan, pero en tensión. Se inspira justo antes de subir y se espira al bajar.",
+  "caution" : "Rotar los hombros en series pesadas, trabajar con peso insuficiente o excesivo, realizar el recorrido de forma incompleta, efectuar series cortas o escasas y flexionar los codos para ayudarse en la subida."
+}

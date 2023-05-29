@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-laterales-con-mancuernas",
+  "name" : "Elevaciones laterales con mancuernas",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-laterales-con-mancuernas.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (lateral) y supraespinoso.",
+    "secundary" : "Deltoides (anterior y posterior), trapecio y serrato anterior (especialmente desde 90º a 150º), bíceps (largo) y subescapular",
+    "antagonist" : "Dorsal ancho, pectoral (inferior), redondos, tríceps (largo) y bíceps (corto)."
+  },
+  "execution" : "De pie, con las piernas ligeramente flexionadas y separadas, con la mirada al frente, se sujetan las mancuernas con los codos semiflexionados a los lados del cuerpo, en posición neutra. Se elevan los brazos en abducción hasta formar una cruz, y se suben los codos hasta la misma altura que las manos y el hombro. Las palmas de las manos mirarán al suelo en su momento más alto. Se desciende controlando el movimiento. Se inspira en el primer tercio de la subida (o incluso antes de subir en series pesadas) y se espira durante el descenso.",
+  "caution" : " Balancear el cuerpo, supinar el antebrazo al levantar, subir las manos pero no los codos o al contrario, pronar el antebrazo al final del movimiento, realizar poco o mucho recorrido con exceso de carga, dejar caer el peso subido, flexionar en exceso los codos (mucho peso) o llevarlos totalmente extendidos, excederse en la velocidad de ejecución, efectuar una elevación asimétrica..."
+}

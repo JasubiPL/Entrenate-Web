@@ -1,0 +1,12 @@
+{
+  "id" : "press-con-mancuernas",
+  "name" : "Press con mancuernas",
+  "img" : "/image/gym-excercises/shoulder/press-con-mancuerna.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (anterior, medio), tríceps (excepto largo) y supraespinoso.",
+    "secundary" : "Deltoides (posterior), pectoral (superior), trapecio (superior), bíceps (largo), serrato anterior y tríceps (largo).",
+    "antagonist" : "Dorsal ancho, bíceps y pectoral (inferior)."
+  },
+  "execution" : "Sentado sobre un banco ligeramente inclinado o recto, se sujetan las mancuernas en pronación (con los nudillos hacia atrás) a los lados de la cabeza, se extienden hasta la extensión casi completa arriba y se acercan ligeramente para guardar el equilibrio. Se desciende controladamente hasta la altura de las orejas. Los brazos se mueven siempre paralelos al cuerpo, y se acercan a los costados en la bajada. Se toma aire en la bajada y se expulsa al terminar de subir.",
+  "caution" : "Arquear en exceso la zona lumbar, forzar las últimas repeticiones sin ayuda de nadie y bloquear los codos arriba buscando un descanso."
+}

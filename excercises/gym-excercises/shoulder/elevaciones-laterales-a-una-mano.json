@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-laterales-a-una-mano",
+  "name" : "Elevaciones laterales a una mano",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-laterales-a-una-mano.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (medio o lateral) y supraespinoso.",
+    "secundary" : "Deltoides (anterior y posterior), trapecio y serrato anterior (especialmente desde 90º a 150º), bíceps (largo) y subescapular",
+    "antagonist" : "Dorsal ancho, pectoral (inferior), redondos y bíceps (corto)."
+  },
+  "execution" : "De pie, con las piernas ligeramente flexionadas y bien separadas, se sujeta la mancuerna con el codo semiflexionado a un lado del cuerpo, en posición neutra, la otra permanece en la cintura o se sujeta en algún apoyo externo. Sin variar la posición de los codos ni del resto del cuerpo, se eleva el brazo en abducción hasta los 90º aproximadamente. El codo sube hasta la misma altura que la mano y el hombro mientras la mancuerna permanece paralela al suelo. También se puede sacar frente al cuerpo, teniendo en cuenta que así se consigue una pequeña fase de impulso (menos estricto pero mayor posibilidad de peso). Se desciende controlando el movimiento. Se inspira en el comienzo de la subida y se espira al final del descenso",
+  "caution" : "Los mismos que 'a dos manos', en especial, balancear el cuerpo, subir las manos pero no los codos o viceversa, girar las mancuernas al final del movimiento y realizar poco o mucho recorrido con exceso de peso."
+}

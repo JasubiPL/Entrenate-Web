@@ -1,0 +1,12 @@
+{
+  "id" : "press-frontal-con-mancuernas",
+  "name" : "Press frontal con mancuernas",
+  "img" : "/image/gym-excercises/shoulder/press-frontal-con-mancuernas.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (anterior), coracobraquial, tríceps (excepto largo) y supraespinoso.",
+    "secundary" : "Deltoides (medio y posterior), pectoral (superior), bíceps (largo), trapecio y tríceps (largo).",
+    "antagonist" : "Dorsal ancho, redondos, pectoral (inferior) y bíceps."
+  },
+  "execution" : "Sentado sobre un banco ligeramente inclinado, se sujetan las mancuernas en posición neutra frente a la cabeza, con los pulgares mirando hacia la misma. Se empujan hacia arriba sin mover el codo de dirección (siempre al frente). Las mancuernas descienden hasta la altura de la clavícula y suben hasta la extensión casi completa. Se toma aire al bajar y se expulsa al terminar de subir.",
+  "caution" : "Arquear en exceso la zona lumbar e implicar demasiado al tríceps."
+}

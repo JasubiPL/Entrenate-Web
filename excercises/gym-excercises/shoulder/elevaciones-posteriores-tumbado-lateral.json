@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-posteriores-tumbado-lateral",
+  "name" : "Elevaciones posteriores tumbado lateral'",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-posteriores-tumbado-lateral.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (posterior) y trapecio.",
+    "secundary" : "Deltoides (medio), dorsal, redondos, romboides, tríceps e infraespinoso.",
+    "antagonist" : "Deltoides anterior, pectoral y bíceps."
+  },
+  "execution" : "En decúbito lateral sobre un banco, bien sujeto a él para guardar el equilibrio, se toma con la mano libre la mancuerna en vertical y en pronación (con la palma hacia el suelo), se deja caer por delante hasta algo más abajo que el propio cuerpo y luego se eleva con la contracción del deltoides posterior y músculos adyacentes hasta devolverla a la vertical. La mancuerna se puede colocar con el pulgar hacia el suelo o hacia la cabeza. Se inspira en el comienzo de la bajada y se espira al regresar arriba.",
+  "caution" : "Pegar los codos al cuerpo para ayudarse del dorsal (mucho más fuerte que el deltoides), mover todo el tronco y flexo-extender el codo para tomar impulsos"
+}

@@ -1,0 +1,12 @@
+{
+  "id" : "press-militar",
+  "name" : "Press militar 'Frontal con barra'",
+  "img" : "/image/gym-excercises/shoulder/press-militar.png",
+  "muscles_involved" : {
+    "principal" : " Deltoides (anterior, medio), tríceps (excepto largo) y supraespinoso.",
+    "secundary" : "Deltoides (posterior), pectoral (superior), trapecio (superior), bíceps (largo), serrato anterior y tríceps (largo).",
+    "antagonist" : "Dorsal ancho, bíceps y pectoral (inferior)."
+  },
+  "execution" : "Sentado sobre un banco ligeramente inclinado, se sujeta la barra en pronación (con los nudillos hacia atrás) con una anchura algo superior a la de los hombros. Se desciende la barra hasta acercarse al pecho en su zona clavicular y se sube hasta la extensión casi completa. Los brazos se mueven paralelos al cuerpo, y se acercan a los costados del tronco en la bajada. Se toma aire en el descenso y se expulsa al terminar de subir.",
+  "caution" : " Sacar el peso desde la posición más baja por un mal diseño del banco, arquear demasiado la zona lumbar y bloquear los codos en extensión."
+}

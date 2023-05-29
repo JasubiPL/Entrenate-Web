@@ -1,0 +1,12 @@
+{
+  "id" : "remo-al-cuello-con-barra",
+  "name" : "Remo al cuello con barra",
+  "img" : "/image/gym-excercises/shoulder/remo-al-cuello-con-barra.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides.",
+    "secundary" : "Trapecio, elevador de la escápula, supraespinoso, bíceps, flexores de los antebrazos, romboideos y (lumbares).",
+    "antagonist" : "Dorsal, pectoral y tríceps."
+  },
+  "execution" : "De pie, con las piernas algo separadas, con el tronco recto y bloqueado, se sujeta la barra frente a los muslos en pronación (con las palmas hacia las piernas) con una separación algo menor a la de los hombros y se tira de ella hasta el cuello llevándola siempre cerca del cuerpo. Los codos deben subir y permanecer más altos que las manos. Se toma aire en el comienzo de la subida y se expulsa al bajar.",
+  "caution" : "Levantar más las manos que los codos, balancear el cuerpo, extender la barra al frente y bajar una vez llegue arriba (solicita al deltoides anterior en contracción excéntrica, pero no mejora sustancialmente el trabajo del trapecio)."
+}

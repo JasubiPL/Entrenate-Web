@@ -1,0 +1,12 @@
+{
+  "id" : "press-en-maquina",
+  "name" : "Press en máquina",
+  "img" : "/image/gym-excercises/shoulder/press-en-maquina.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (anterior, medio), tríceps (excepto largo) y supraespinoso",
+    "secundary" : "Deltoides (posterior), pectoral (superior), trapecio (superior), bíceps (largo), serrato anterior y tríceps (largo).",
+    "antagonist" : "Dorsal ancho, bíceps y pectoral (inferior)."
+  },
+  "execution" : "Sentado en el banco de la máquina, vertical o ligeramente inclinado, se sujetan los agarres en pronación (con los nudillos hacia atrás) con una anchura algo superior a la de los hombros. Se baja hasta que las manos quedan a los lados de la cabeza y se sube hasta la extensión casi completa. Los codos se mueven siempre paralelos al cuerpo, y se acercan a los costados en la bajada. Se toma aire en el comienzo de la bajada y se expulsa al terminar de subir.",
+  "caution" : "Sacar el peso desde la posición más baja por un mal diseño de la máquina, arquear demasiado la zona lumbar, regular de forma incorrecta el aparato (especialmente el Srespaldo y la altura del banco), bloquear los codos arriba y realizar una rotación interna del brazo al bajar (mover los codos hacia atrás)."
+}

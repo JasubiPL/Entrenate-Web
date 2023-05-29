@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-frontales",
+  "name" : "Elevaciones Frontales",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-frontales.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (anterior), coracobraquial y pectoral (superior).",
+    "secundary" : "Deltoides medio y posterior, trapecio (medio y superior), bíceps y serrato.",
+    "antagonist" : "Dorsal ancho, redondos, pectoral (inferior) y tríceps."
+  },
+  "execution" : "De pie, con las piernas algo separadas y el tronco bloqueado, se sujetan las mancuernas en pronación (con las palmas hacia el cuerpo) sobre la parte anterior de los muslos. Se elevan frontalmente (en antepulsión) hasta la altura de la cabeza, de forma preferiblemente alterna, sin modificar la flexión de los codos y sin acercarlas al centro. Se toma aire al comenzar el movimiento y se espira al terminar de bajar.",
+  "caution" : "Balancear el cuerpo para ayudar a subir mucho peso, realizar la bajada sin tensión y efectuar una extensión completa de codos"
+}

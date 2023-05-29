@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-posteriores",
+  "name" : "Elevaciones posteriores 'pájaritos de pie'",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-posteriores.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (posterior) y trapecio.",
+    "secundary" : "Deltoides (medio), dorsal ancho, romboides, redondos, tríceps, infraespinoso y (lumbar y paravertebrales).",
+    "antagonist" : "Deltoides anterior, pectoral y bíceps."
+  },
+  "execution" : "De pie, con las piernas algo separadas y semiflexionadas, con el tronco bloqueado e inclinado hasta casi la horizontal, se sujetan las mancuernas en agarre neutro -con los codos hacia atrás- frente al cuerpo (colgando). Se elevan lateralmente y sin modificar la flexión de los codos hasta la altura del tronco. Los codos han de permanecer lo suficiente separados del tronco como para no implicar demasiado al dorsal. Se toma aire al comenzar a subir y se espira mientras se desciende sin soltarlo del todo.",
+  "caution" : "Balancear el cuerpo, realizar la bajada del peso sin tensión, pegar los codos al cuerpo y modificar la extensión del codo durante el movimiento."
+}
