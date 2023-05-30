@@ -1,0 +1,12 @@
+{
+  "id" : "remo-al-cuello-en-polea-baja",
+  "name" : "Remo al cuello en polea baja",
+  "img" : "/image/gym-excercises/shoulder/remo-al-cuello-en-polea-baja.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides.",
+    "secundary" : "Trapecio, elevador de la escápula, supraespinoso, bíceps, flexores de los antebrazos, romboideos y (lumbares).",
+    "antagonist" : "Dorsal, pectoral y tríceps."
+  },
+  "execution" : "De pie, con las piernas algo separadas, el tronco recto y bloqueado, se sujeta la barra en pronación frente a los muslos con una separación algo menor que la de los hombros y se tira de ella hasta el cuello llevándola siempre cerca del cuerpo. Los codos deben subir y permanecer más altos que las manos. Se toma aire en el comienzo de la subida y se expulsa al bajar.",
+  "caution" : "Levantar más las manos que los codos, balancear el cuerpo, lanzar el peso hacia arriba para aprovechar la inercia en polea y separar mucho la barra del cuerpo."
+}

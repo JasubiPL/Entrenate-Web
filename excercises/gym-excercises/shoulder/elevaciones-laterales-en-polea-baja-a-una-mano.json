@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-laterales-en-polea-baja-a-una-mano",
+  "name" : "Elevaciones laterales en polea baja a una mano",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-laterales-en-polea-baja-a-una-mano.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (lateral) y supraespinoso.",
+    "secundary" : "Deltoides (anterior y posterior), trapecio y serrato anterior (especialmente desde 90º a 150º), bíceps (largo) y subescapular",
+    "antagonist" : "Dorsal ancho, pectoral (inferior), redondos, tríceps (cabeza larga) y bíceps."
+  },
+  "execution" : "De pie y de lado a la polea baja, con las piernas ligeramente flexionadas y separadas para guardar la postura, se sujeta un agarre con el codo semiflexionado a un lado del cuerpo, y se pasa la cuerda frente al mismo. Sin variar la posición de los codos ni del resto del cuerpo, se eleva el brazo en abducción hasta formar la mitad de una cruz (un solo lado). El codo sube hasta la misma altura que la mano y el hombro. Todo el movimiento ha de ser estricto para no lanzar el peso en movimientos balísticos. Se inspira en el comienzo de la subida y se espira al final del descenso.",
+  "caution" : "Balancear el cuerpo, subir las manos pero no los codos o viceversa, realizar poco o mucho recorrido con exceso de peso y lanzar el brazo al subir"
+}

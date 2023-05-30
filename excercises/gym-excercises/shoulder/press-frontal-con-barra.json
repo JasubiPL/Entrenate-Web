@@ -1,0 +1,12 @@
+{
+  "id" : "press-frontal-con-barra",
+  "name" : "Press frontal con barra",
+  "img" : "/image/gym-excercises/shoulder/press-frontal-con-barra.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (anterior y medio), tríceps (excepto largo) y supraespinoso",
+    "secundary" : "Deltoides (posterior), pectoral (superior), trapecio (superior), bíceps (largo), serrato anterior y tríceps (largo).",
+    "antagonist" : "Dorsal ancho, bíceps y pectoral (inferior)."
+  },
+  "execution" : "Sentado en el banco bajo la barra del multipower, ligeramente inclinado, se sujeta la barra en pronación (con los nudillos hacia atrás) con una anchura algo superior a la de los hombros. Se baja hasta que la barra queda a la altura de la cabeza y se sube hasta la extensión casi completa. Los codos se mueven siempre paralelos al cuerpo, y se acercan a los costados del mismo al descender. Si la cabeza molesta, se puede girar hacia un lado. Se toma aire en el comienzo de la bajada y se expulsa al terminar de subir.",
+  "caution" : "Arquear demasiado la zona lumbar, regular de forma incorrecta el respaldo, trabajar con exceso de peso (es una máquina que se presta a utilizar bastante) y bloquear los codos arriba."
+} 

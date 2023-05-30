@@ -1,0 +1,12 @@
+{
+  "id" : "elevaciones-laterales-en-maquina",
+  "name" : "Elevaciones laterales en máquina",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-laterales-en-maquina.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (lateral) y supraespinoso.",
+    "secundary" : "Deltoides (anterior y posterior), trapecio y serrato anterior (especialmente desde 90º a 150º), bíceps (largo) y subescapular.",
+    "antagonist" : "Dorsal ancho, pectoral (inferior), redondos, tríceps (cabeza larga) y bíceps."
+  },
+  "execution" : "Sentado, se sujetan los agarres con los codos flexionados (según el diseño de la máquina) a los lados del cuerpo. Sin variar la posición de los codos ni del resto del cuerpo, se elevan los brazos en abducción hasta formar una cruz, con los mismos paralelos al suelo, y se realiza el empuje con los codos. Se desciende controlando el movimiento. Se inspira en el comienzo de la subida y se espira al final del descenso.",
+  "caution" : "Realizar una selección del peso o del recorrido inadecuada, puesto que la máquina guía el movimiento."
+}

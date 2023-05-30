@@ -1,0 +1,14 @@
+
+{
+  "id" : "elevaciones-frontales-en-polea-baja",
+  "name" : "Elevaciones frontales en polea baja",
+  "img" : "/image/gym-excercises/shoulder/elevaciones-frontales-en-polea-baja.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (anterior) y coracobraquial.",
+    "secundary" : "Dectoral (superior), deltoides lateral y posterior, bíceps, serrato y trapecio (medio y superior).",
+    "antagonist" : "Dorsal ancho, redondos, pectoral (inferior) y tríceps."
+  },
+  "execution" : "De pie y de espaldas a la polea baja, con las piernas algo separadas y el tronco bloqueado, se sujeta un agarre en pronación (con las palmas hacia el suelo) a un lado del muslo. Se eleva frontalmente el brazo (en antepulsión) sin modificar la flexión del codo, hasta la altura de la cabeza. Se toma aire al comenzar el movimiento (incluso antes si la carga es muy alta) y se espira al bajar.",
+  "caution" : "Balancear el cuerpo para ayudar a subir mucho peso y mover el peso sin tensión (lanzándolo en un movimiento balístico)."
+}
+

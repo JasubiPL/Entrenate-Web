@@ -1,0 +1,12 @@
+{
+  "id" : "pajaro-sentado-en-máquina-horizontal",
+  "name" : "Pajaro sentado en máquina horizontal",
+  "img" : "/image/gym-excercises/shoulder/pajaro-sentado-en-máquina-horizontal.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (posterior) y trapecio.",
+    "secundary" : "Deltoides (medio), romboides, dorsal, redondos y tríceps.",
+    "antagonist" : "Deltoides anterior, pectoral y bíceps."
+  },
+  "execution" : "Sentado, con el pecho apoyado en la máquina para inmovilizarlo, se su tan los agarres al frente y se separan los codos del tronco para dejar los brazos horizontales al suelo (abducidos). Con los codos semiflexionados, pero sin variar su ángulo, se abren en cruz en un movimiento inverso al de un abrazo. Se inspira al abrir y se espira al cerrar sin soltar todo el aire.",
+  "caution" : "Recorrido incompleto y movimientos demasiado rápidos/balísticos que lanzan el peso"
+}

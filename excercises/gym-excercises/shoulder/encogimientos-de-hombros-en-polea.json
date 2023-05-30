@@ -1,0 +1,13 @@
+{
+  "id" : "encogimientos-de-hombros-en-polea",
+  "name" : "Encogimientos de hombros en polea",
+  "img" : "/image/gym-excercises/shoulder/encogimientos-de-hombros-en-polea.png",
+  "muscles_involved" : {
+    "principal" : "Trapecio (superior) y elevador de la escápula.",
+    "secundary" : "Romboideos, trapecio (medio), deltoides y supraespinoso.",
+    "antagonist" : "Pectoral menor, trapecio inferior, pectoral mayor y dorsal ancho."
+  },
+  "execution" : "De pie, con las piernas algo separadas, el tronco recto y bloqueado, se sujeta la barra en pronación frente a los muslos. Con el mayor recorrido posible, se elevan los hombros y se intenta aguantar un instante arriba. Los brazos permanecen como simples ganchos que sujetan el peso aunque con tensión constante. De forma idéntica, se puede realizar por detrás. Se toma aire al subir y se expulsa al bajar.",
+  "caution" : "Rotar los hombros en series pesadas, trabajar con peso insuficiente o excesivo, realizar el recorrido de forma incompleta, efectuar series cortas o escasas y flexionar los codos para ayudarse en la subida."
+
+}

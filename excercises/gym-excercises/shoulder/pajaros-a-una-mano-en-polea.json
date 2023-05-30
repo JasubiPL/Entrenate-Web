@@ -1,0 +1,12 @@
+{
+  "id" : "pajaros-a-una-mano-en-polea",
+  "name" : "Pájaros a una mano en polea",
+  "img" : "/image/gym-excercises/shoulder/pajaros-a-una-mano-en-polea.png",
+  "muscles_involved" : {
+    "principal" : "Deltoides (posterior) y trapecio.",
+    "secundary" : "Deltoides (medio), dorsal, redondos, tríceps y romboides.",
+    "antagonist" : "Deltoides anterior, pectoral y bíceps"
+  },
+  "execution" : "De pie, con las piernas algo separadas y semiflexionadas, el tronco se flexiona hasta casi la horizontal. Se apoya la mano más cercana a la polea en la rodilla, y con la otra se sujeta el agarre frente al cuerpo. Se eleva lateralmente sin modificar la flexión de los codos, hasta la altura del tronco. Los codos han de permanecer lo suficientemente separados del tronco como para no implicar demasiado al dorsal. Se inspira al comenzar la subida y se espira al descender.",
+  "caution" : "Modificar la flexión del codo para ayudarse del tríceps, lanzar el peso para conseguir subir del todo y acercar mucho el brazo al cuerpo para ayudarse del dorsal."
+}
