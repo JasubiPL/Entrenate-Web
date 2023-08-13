@@ -7,13 +7,14 @@ export default function PrincipalLayout({title, children}) {
   return (
     <>
       <Head>
-        <title>{ `${title} | Piñeyro-Fit` }</title>
+        <title>{ `${title} | Entrenate` }</title>
+        <link rel="shortcut icon" href="/entrenate_logo.png" type="image/x-icon" />
 
       </Head>
       <header>
         <section className="flex justify-center gap-2 py-2 text-green-500 text-sm font-light">
+          <a className="flex gap-2" href='https://www.facebook.com/entrenate' target="_blanck">
           Siguenos en 
-          <a href='https://www.facebook.com/entrenate' target="_blanck">
             <SiFacebook className='text-xl text-green-500 hover:text-white transition-all'/>
           </a>        
         </section>
