@@ -1,73 +1,62 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { IoIosFitness } from "react-icons/io";
+import { IoNutritionOutline } from "react-icons/io5";
+import { LuListTodo } from "react-icons/lu";
+import { BsClipboard2Data } from "react-icons/bs";
+import { CgFeed } from "react-icons/cg";
 import { useEffect, useState } from "react";
-import { FcSportsMode } from 'react-icons/fc'
-import { CgMenu } from 'react-icons/cg'
 
 export default function Nav() {
-  const [blogActive, setBlogActive] = useState('')
-  const [excercisesActive, setExcercisesActive] = useState('')
-  const [nutritionActive, setNutritionActive] = useState('')
-  const [routinesActive, setRoutinesActive] = useState('')
+  const [widthScreen, setWidthScreen] = useState('')
 
   const path = useRouter().pathname
   //console.log(path)
 
   useEffect(() =>{
 
-    if(path.includes("blog")){
-      setBlogActive("text-green-500")
+    if(window.innerWidth <= 768){
+      setWidthScreen('hidden')
     }
-    if(path.includes("ejercicio")){
-      setExcercisesActive("text-green-500")
-    }
-    if(path.includes("nutricion")){
-      setNutritionActive("text-green-500")
-    }
-    if(path.includes("rutinas")){
-      setRoutinesActive("text-green-500")
-    }
-
-  },[])
-
-  const handleMenu = () =>{
-    alert("Proximamente")
-  }
-
+  })
 
   return (
-    <nav className='w-full bg-gray-900 py-2 px-4 flex justify-between items-center'>
-      <Link href='/' className='flex items-center gap-2'>
-        <h1 className='text-white text-2xl lg:text-4xl'>Entrenate</h1>
-        
-      </Link>
-      {/*<section className='flex items-center gap-3'>
-
-        <CgMenu className="text-white text-2xl lg:hidden" onClick={() => handleMenu()}/>
-
-        <ul className="gap-3 text-white hidden lg:flex">
-          <li className="">
-            <Link className={`dev-bebas-font text-2xl ${blogActive} hover:text-green-500 transition-all`} href="/">
-              Blog
+    <nav className='w-full bg-gray-900 flex flex-wrap p-3 justify-between items-center'>
+      <h1 className='text-white text-2xl lg:text-4xl w-full lg:w-auto'>Entrenate</h1>   
+      <ul className="w-full flex justify-evenly lg:w-auto gap-3 text-white lg:flex lg:mr-4">
+        <li>
+          <Link className={`flex gap-2 text-2xl lg:text-lg items-center justify-center hover:text-green-400 
+          ${ path === '/' || path.includes('ejercicioengym') ? 'text-green-400' : ''}`} href='/'>
+            <IoIosFitness /> 
+            <span className={`${ widthScreen}`}>Ejercicios</span>
           </Link>
-          </li>
-          <li>
-            <Link className={`dev-bebas-font text-2xl ${excercisesActive} hover:text-green-500 transition-all`} href="/">
-              Ejercicios
-            </Link>
-          </li>
-          <li>
-            <Link className={`dev-bebas-font text-2xl ${nutritionActive} hover:text-green-500 transition-all`} href="/">
-              Nutrición
-            </Link>
-          </li>
-          <li>
-            <Link className={`dev-bebas-font text-2xl ${routinesActive} hover:text-green-500 transition-all`} href="/">
-              Rutinas
-            </Link>
-          </li>
-        </ul> 
-      </section>*/}
+        </li>
+        <li>
+          <Link className={`flex gap-2 text-2xl lg:text-lg items-center justify-center hover:text-orange-400 `} href='/nutricion'>
+            <IoNutritionOutline />
+            <span className={`${ widthScreen}`}>Ntutricion</span>
+          </Link>
+        </li>
+        <li>
+          <Link className="flex gap-2 text-2xl lg:text-lg items-center justify-center hover:text-orange-400" href='/rutinas'>
+            <BsClipboard2Data />
+            <span className={`${ widthScreen}`}>Rutinas</span>
+          </Link>
+        </li>
+        <li>
+          <Link className="flex gap-2 text-2xl lg:text-lg items-center justify-center hover:text-orange-400" href='/Blog'>
+            <CgFeed />
+            <span className={`${ widthScreen}`}>BLog</span>
+          </Link>
+        </li>
+        <li>
+          <Link className="flex gap-2 text-2xl lg:text-lg items-center justify-center hover:text-orange-400" href='/mi-plan'>
+            <LuListTodo />
+            <span className={`${ widthScreen}`}>Mi Plan</span>
+          </Link>
+        </li>
+      </ul> 
+
     </nav>
   );
 };
